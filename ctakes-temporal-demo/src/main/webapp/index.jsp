@@ -35,7 +35,6 @@
 <body>
 <img src="http://ctakes.apache.org/images/ctakes_logo.jpg"/>
 <br/>
-Version: <%=System.getProperty("ctakesversion") %>
 
 <form method="post" action="DemoServlet">
 <textarea rows="4" cols="50" name="q">
